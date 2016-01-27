@@ -1,0 +1,2 @@
+serviceClass: com.sencha.gxt.project.client.GreetingService
+path: D5D896BDC985E24EB07E0E052ABE40BC.gwt.rpc
